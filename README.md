@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML - DS & SWE roles
 - 🌱 I’m currently learning NLP 
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me @email.aryan1005@gmail.com
+- 📫 Reach me @ email.aryan1005@gmail.com
 - 😄 Pronouns: HE/HIM
 
 
