@@ -5,9 +5,6 @@
 
 ![](https://komarev.com/ghpvc/?username=aryan5v&style=flat-square&color=lightgrey&label=views)
 
-<img
-  src="https://github.com/user-attachments/assets/ca46e588-c3b8-4b54-8248-5d24fa3a0309"
-  alt="img"
-  width="900"
-  height="400"
-/>
+
+
+<img width="1916" height="821" alt="Texture Lab (3)" src="https://github.com/user-attachments/assets/8a3b906f-bc05-4502-ae80-ed8b13c573dd" />
